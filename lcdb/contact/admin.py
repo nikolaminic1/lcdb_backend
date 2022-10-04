@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+
+class UserAdmin(admin.ModelAdmin):
+    ordering = ['id']
+    list_display = []
