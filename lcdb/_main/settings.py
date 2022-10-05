@@ -32,7 +32,7 @@ SECRET_KEY = '^_l2^gf9v045#sc#r&$*aemixht!4w@97j!2hs_1db0i+t#kyg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', "www.burrito.rs", "buritto.rs", "api.buritto.rs", "165.232.79.170", "46.235.99.40"]
+ALLOWED_HOSTS = ['localhost', "www.burrito.rs", "burrito.rs", "api.burrito.rs", "165.232.79.170", "46.235.99.40"]
 
 
 # Application definition
